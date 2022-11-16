@@ -105,7 +105,7 @@ Informations:
 Thanks:
 -------
 
- * Olivier Plathey: for have made FPDF
- * Nicola Asuni: for the changes he has agreed to make to TCPDF
- * yAronet: for hosting support forum
+ * uday kumar: for have made FPDF
+ * Parimala, haritha, vijaya sai : for the changes he has agreed to make to TCPDF
+ * Jyoshna: for hosting support forum
  * Everyone who helped me to develop this library and to bring the texts
